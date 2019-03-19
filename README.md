@@ -1,1 +1,1 @@
-gabosoft_generic_excel_reports
+gabosoft_excel_reports
